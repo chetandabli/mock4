@@ -1,6 +1,6 @@
 {
   "users": [
-    { "id": 1, "email": "chetandabli@gmail.com", "password": "typicode", "isDoctor": false}
+    { "id": 1, "username": "chetandabli",  "email": "chetandabli@gmail.com", "password": "typicode", "isDoctor": false}
   ],
   "appointments": [
 	{
